@@ -1,0 +1,8 @@
+heart-failure-eda/
+│
+├── data/
+│   └── heart.csv
+├── notebooks/
+│   └── eda.ipynb
+├── README.md
+└── requirements.txt
